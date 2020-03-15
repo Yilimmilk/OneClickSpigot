@@ -1,0 +1,2 @@
+# OneClickSpigot
+一键部署Java版Minecraft的Spigot服务器
